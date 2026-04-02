@@ -1,2 +1,5 @@
 # js-hindi-youtube
 a code repo for javascript series at chai or  code yutbe chanel
+
+# edit
+bcz learning git and github 
